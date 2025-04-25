@@ -1,3 +1,4 @@
+
 <h1>Olá, me Chamo Rodrigo Lopes Moreira :sunglasses:</h1>
 
 <p>Atualmente ingressando na área de desenvolvedor front-end, e buscando conhecimento nas tecnologias nessecaria para esta finalidade. </p>
@@ -23,5 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLopesMoreira-cmd)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-novos-aplicativos-para-desktop_23-2148684987.jpg?t=st=1745545597~exp=1745549197~hmac=f9a747a2b8988fc8e70209058b82d791ed337992b5e0fa6b347670591dbebadb&w=740" width="100%" alt="img-cabecalho"/>
+
 
